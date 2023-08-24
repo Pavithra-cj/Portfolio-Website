@@ -175,7 +175,8 @@ export const projects = [
     date: "Dec 2022 - Jan 2023",
     description:
       "An android application for chatting purposes which use AES encryption methods.",
-    image: "",
+    image:
+      "https://user-images.githubusercontent.com/84024015/263103127-8c1a6899-f7bc-454e-a2ba-591d61973d39.jpg",
     tags: ["Android Studio", "Java", "Firebase"],
     category: "Android Application",
     github: "https://github.com/Pavithra-cj/Messaging_app",
@@ -185,7 +186,8 @@ export const projects = [
     title: "Pizza Creed",
     date: "May 2023 - June 2023",
     description: "A java backend API for restaurant named Pizza Creed.",
-    image: "",
+    image:
+      "https://user-images.githubusercontent.com/84024015/263102804-2a52d230-05d5-4711-8d98-bb12d34bb6c5.png",
     tags: ["Java", "Postman"],
     category: "Backend",
     github: "https://github.com/Pavithra-cj/Pizza_creed",
@@ -196,7 +198,8 @@ export const projects = [
     date: "Mar 2023",
     description:
       "A weather forcasting application which forcast weather for five days in any city worldwide.",
-    image: "",
+    image:
+      "https://user-images.githubusercontent.com/84024015/263103367-3192e26a-b5d0-47cc-a0b5-3fd0dff2eeb1.jpg",
     tags: ["React Js"],
     category: "Frontend",
     github: "https://github.com/Pavithra-cj/React-Weather_app",
