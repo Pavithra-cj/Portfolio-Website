@@ -14,7 +14,7 @@ export const darkTheme = {
 export const lightTheme = {
   bg: "#FFFFFF",
   bgLight: "#f0f0f0",
-  primary: "#1adb7e",
+  primary: "#be1adb",
   text_primary: "#111111",
   text_secondary: "#48494a",
   card: "#FFFFFF",
