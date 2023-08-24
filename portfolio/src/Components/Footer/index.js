@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import FacebookIcon from "@mui/icons-material/Facebook";
-import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import { Bio } from "../../Data/Constants";
@@ -87,7 +86,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Pavithra Chamod</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -99,9 +98,6 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display">
             <FacebookIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display">
-            <TwitterIcon />
-          </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
@@ -109,7 +105,7 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2023 Rishav Chanda. All rights reserved.</Copyright>
+        <Copyright>&copy; 2023 Scorpio. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
