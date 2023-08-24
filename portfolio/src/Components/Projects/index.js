@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { useState } from "react";
 import { projects } from "../../Data/Constants";
 import ProjectCards from "../Cards/ProjectsCard";
 

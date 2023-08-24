@@ -3,6 +3,7 @@ import { styled } from "styled-components";
 import { Bio } from "../../Data/Constants";
 import TypeWriter from "typewriter-effect";
 import proPic from "../../Images/proPic.jpg";
+import BgAnimation from "../ProfileBgAnimation";
 
 export const ProfileContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
@@ -209,7 +210,9 @@ function Profile() {
   return (
     <div id="about">
       <ProfileContainer>
-        <ProfileBg></ProfileBg>
+        <ProfileBg>
+          <BgAnimation />
+        </ProfileBg>
         <ProfileInnerContainer>
           <ProfileLeftContainer>
             <Title>
