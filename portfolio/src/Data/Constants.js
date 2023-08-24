@@ -196,8 +196,7 @@ export const projects = [
     date: "Mar 2023",
     description:
       "A weather forcasting application which forcast weather for five days in any city worldwide.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    image: "",
     tags: ["React Js"],
     category: "Frontend",
     github: "https://github.com/Pavithra-cj/React-Weather_app",
